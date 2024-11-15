@@ -48,6 +48,12 @@
 </a>
 </div>
 
+### **Knowledge**
+<div align="center">
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=java,spring" alt="Databases"/>
+</a>
+</div>
 
 ### **Soft Skills**
 - Creativity and innovation
