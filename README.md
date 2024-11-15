@@ -1,5 +1,6 @@
 # Hi there 👋
 
+<br>
 ## I'm Erika, a Software Engineer 🚀✨
 
 <div>
@@ -55,7 +56,8 @@
 - Empathy and emotional intelligence
 - Commitment to self-development
 
----
+
+<br>
 
 ## 🌐 Let's Connect!
 
