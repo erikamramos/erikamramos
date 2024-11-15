@@ -36,7 +36,7 @@
 ### **Tools & Platforms**
 <div align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=docker,git,github,postman,figma,ai" alt="Tools & Platforms"/>
+<img src="https://skillicons.dev/icons?i=docker,azure,git,github,bitbucket,postman,figma,ai" alt="Tools & Platforms"/>
 </a>
 </div>
 
