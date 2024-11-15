@@ -1,6 +1,6 @@
 # Hi there 👋
 
-<br>
+
 ## I'm Erika, a Software Engineer 🚀✨
 
 <div>
