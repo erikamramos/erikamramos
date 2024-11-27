@@ -28,7 +28,7 @@
 ### **Frameworks & Libraries**
 <div align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=angular,vue,nuxtjs,react,nextjs,nestjs,laravel,tailwind" alt="Frameworks & Libraries"/>
+<img src="https://skillicons.dev/icons?i=angular,vue,nuxtjs,react,nextjs,nodejs,nestjs,laravel,tailwind" alt="Frameworks & Libraries"/>
 </a>
 </div>
 
@@ -51,7 +51,7 @@
 ### **Knowledge**
 <div align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=java,spring" alt="Databases"/>
+<img src="https://skillicons.dev/icons?i=graphql, java,spring" alt="Databases"/>
 </a>
 </div>
 
