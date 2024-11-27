@@ -51,7 +51,7 @@
 ### **Knowledge**
 <div align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=graphql, java,spring" alt="Databases"/>
+<img src="https://skillicons.dev/icons?i=graphql,java,spring" alt="Databases"/>
 </a>
 </div>
 
